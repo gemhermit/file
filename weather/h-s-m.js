@@ -1,7 +1,7 @@
 (function (d) {
     var c = d.createElement('link')
     c.rel = 'stylesheet'
-    c.href = 'https://widget.heweather.net/simple/static/css/he-simple.css?v=1.4.0'
+    c.href = 'https://cdn.jsdelivr.net/gh/gemhermit/file/weather/he-simple.css'
     var s = d.createElement('script')
     s.src = 'https://cdn.jsdelivr.net/gh/gemhermit/file/weather/h-s.js'
     var sn = d.getElementsByTagName('script')[0]
