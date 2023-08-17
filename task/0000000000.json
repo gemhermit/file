@@ -101,9 +101,13 @@
             "t": 1,
             "q": "特殊单选题选项为图片/语音o为选项的链接/自动识别文件后缀一致且是路径完整/图片格式/音频格式/视频格式",
             "o": [
+                "A",
                 "http://e.hiphotos.baidu.com/image/pic/item/a1ec08fa513d2697e542494057fbb2fb4316d81e.jpg",
+                "B",
                 "http://c.hiphotos.baidu.com/image/pic/item/30adcbef76094b36de8a2fe5a1cc7cd98d109d99.jpg",
+                "C",
                 "http://h.hiphotos.baidu.com/image/pic/item/7c1ed21b0ef41bd5f2c2a9e953da81cb39db3d1d.jpg",
+                "D",
                 "http://b.hiphotos.baidu.com/image/pic/item/9d82d158ccbf6c81b94575cfb93eb13533fa40a2.jpg"
             ],
             "a": [
