@@ -1,13 +1,13 @@
 {
     "name": "中国近代史纲要",
-    "totalCount": 661,
+    "totalC": 661,
     "id": 1,
     "tag": [
         "大学",
         "历史"
     ],
     "visi":1,
-    "archive": 1,
+    "arch": 1,
     "list": [
         {
             "id": 1,

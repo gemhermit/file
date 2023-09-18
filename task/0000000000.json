@@ -1,13 +1,13 @@
 {
     "name": "task测试题库",
-    "totalCount": 12,
+    "totalC": 12,
     "id": 0,
     "tag": [
         "测试",
         "历史"
     ],
     "visi":1,
-    "archive": 1,
+    "arch": 1,
     "list": [
         {
             "id": 1,
