@@ -1,18 +1,18 @@
 {
     "totalTask": 3,
-    "uptime": "2023-09-27 14:53:43",
+    "uptime": "2023-10-03 14:16:52",
     "totalQ": 4971,
     "totalTag": [
-        "挑战",
         "实验",
         "历史",
         "大学",
-        "中国"
+        "中国",
+        "挑战"
     ],
     "totalUp": [
-        "official",
         "ztianming",
-        "划水小能手"
+        "划水小能手",
+        "official"
     ],
     "list": [
         {
