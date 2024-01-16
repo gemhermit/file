@@ -1,22 +1,22 @@
 {
     "totalTask": 7,
-    "uptime": "2024-01-16 11:06:58",
+    "uptime": "2024-01-16 11:12:36",
     "totalQ": 7655,
     "totalTag": [
-        "历史",
-        "政治",
-        "驾驶证",
-        "挑战",
-        "热门",
         "大学",
+        "政治",
         "实验",
-        "中国",
-        "交通"
+        "挑战",
+        "交通",
+        "历史",
+        "驾驶证",
+        "热门",
+        "中国"
     ],
     "totalUp": [
-        "ztianming",
+        "official",
         "划水小能手",
-        "official"
+        "ztianming"
     ],
     "list": [
         {
@@ -111,7 +111,7 @@
             "uper": "official",
             "arch": 1,
             "visi": 1,
-            "l18n": "zh_CN",
+            "i18n": "zh_CN",
             "coun": "cn",
             "p": "pic地址（背景图）",
             "asso": [
@@ -132,7 +132,7 @@
             "uper": "official",
             "arch": 1,
             "visi": 1,
-            "l18n": "zh_CN",
+            "i18n": "zh_CN",
             "coun": "cn",
             "p": "pic地址（背景图）",
             "asso": [
@@ -147,13 +147,13 @@
                 "大学",
                 "政治"
             ],
-            "time": "2024/1/15 10:52:12",
+            "time": "2024/1/16 11:07:12",
             "intr": "习近平新时代中国特色社会主义理论体系概论客观题题库",
             "totalC": 969,
             "uper": "official",
             "arch": 1,
             "visi": 1,
-            "l18n": "zh_CN",
+            "i18n": "zh_CN",
             "coun": "cn",
             "p": "pic地址（背景图）",
             "asso": [
