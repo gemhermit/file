@@ -1,17 +1,16 @@
 {
     "totalTask": 7,
-    "uptime": "2024-01-16 11:12:36",
-    "totalQ": 7655,
+    "uptime": "2024-02-23 21:33:08",
+    "totalQ": 7653,
     "totalTag": [
-        "大学",
-        "政治",
-        "实验",
         "挑战",
+        "大学",
+        "中国",
         "交通",
+        "政治",
         "历史",
         "驾驶证",
-        "热门",
-        "中国"
+        "热门"
     ],
     "totalUp": [
         "official",
@@ -42,11 +41,11 @@
                 "中国"
             ],
             "time": "2023/8/13 10:52:12",
-            "intr": "\"学习强国\"\"挑战答题\"带选项完整题库题目来源https://ztianming.github.io/xuexi/xuexi.html，仅供用于学习使用，",
+            "intr": "\"学习强国\"\"挑战答题\"带选项完整题库题目来源:https://ztianming.github.io/xuexi/xuexi.html，仅供用于学习使用，",
             "totalC": 2544,
             "uper": "ztianming",
             "arch": 2,
-            "visi": 1,
+            "visi": 2,
             "i18n": "zh_CN",
             "coun": "cn",
             "p": "pic地址（背景图）",
@@ -59,15 +58,15 @@
             "id": 3,
             "name": "南京大学实验室安全教育与考试系统题库",
             "tag": [
-                "大学",
-                "实验"
+                "挑战",
+                "中国"
             ],
             "time": "2023/8/13 10:52:12",
             "intr": "仅供用于学习使用",
-            "totalC": 1766,
+            "totalC": 1764,
             "uper": "划水小能手",
             "arch": 2,
-            "visi": 1,
+            "visi": 2,
             "i18n": "zh_CN",
             "coun": "cn",
             "p": "pic地址（背景图）",
