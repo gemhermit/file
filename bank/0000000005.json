@@ -9,6 +9,7 @@
     "intr": "毛泽东思想和中国特色社会主义理论体系概论客观题题库",
     "totalC": 960,
     "uper": "official",
+    "totalT": [1,2,3],
     "arch": 1,
     "visi": 1,
     "i18n": "zh_CN",
