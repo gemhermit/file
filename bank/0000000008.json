@@ -6,15 +6,13 @@
         "计算机"
     ],
     "time": "2024/3/14 11:28:12",
-    "intr": "计算机网络题库",
+    "intr": "计算机网络主观题题库",
     "totalC": 46,
-    "totalT": [
-        4
-    ],
+    "totalT": [4],
     "uper": "anonymous",
     "arch": 1,
     "visi": 1,
-    "l18n": "zh_CN",
+    "i18n": "zh_CN",
     "coun": "cn",
     "p": "pic地址（背景图）",
     "asso": [
