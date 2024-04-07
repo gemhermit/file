@@ -1,0 +1,42 @@
+{
+    "totalTask": 0,
+    "uptime": "2024-04-07 14:34:17",
+    "totalQ": 30,
+    "totalTag": [
+        "高考",
+        "浙江",
+        "语文"
+    ],
+    "totalUp": [
+        "anonymous"
+    ],
+    "list": [
+        {
+            "id": 1,
+            "name": "2022年浙江省高考语文试题",
+            "tag": [
+                "高考",
+                "语文",
+                "浙江"
+            ],
+            "time": "2024/3/17 11:07:12",
+            "intr": "2022年浙江省高考语文试题，带详细解析",
+            "totalC": 30,
+            "totalT": [
+                1,
+                3,
+                4
+            ],
+            "uper": "anonymous",
+            "arch": 2,
+            "visi": 2,
+            "i18n": "zh_CN",
+            "coun": "cn",
+            "p": "",
+            "asso": [
+                2
+            ]
+        }
+    ],
+    "totalBank": 1
+}
