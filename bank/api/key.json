@@ -1,5 +1,31 @@
 {
-    "gemini_tune": "tunedModels/intellici-64vvmop0j3jj",
     "baidu_accesstoken":"24.b88492f9085cbcc7596aba7f5029de7d.2592000.1715397454.282335-57504589",
-    "gemini_apikey":"AIzaSyBMuRPHbFmFpNqXVw7Umwr1AfuB1zWatWA"
+    "gemini_apikey":"AIzaSyBMuRPHbFmFpNqXVw7Umwr1AfuB1zWatWA",
+    "userservice":"47.115.214.247",
+    "model":[
+        {
+        "name":"Gemini 1.0 Pro", 
+        "des":"Experience Google's largest and most capable AI model，支持图片",
+        "value":"gemini-1.0-pro",
+        "from":"gemini"
+        },
+        {
+            "name":"Gemini 1.5 Pro", 
+            "des":"Experience Google's largest and most capable AI model，支持图片",
+            "value":"gemini-1.5-pro-latest",
+            "from":"gemini"
+        },
+        {
+            "name":"Gemini-Intellici", 
+            "des":"探索基于Gemini微调和纠偏的教育大模型，提供了较好的智能出题效果",
+            "value":"tunedModels/intellici-64vvmop0j3jj",
+            "from":"gemini"
+        },
+        {
+            "name":"文心一言", 
+            "des":"由百度公司开发的聊天机器人，能够与人交互、回答问题及协作创作。",
+            "value":"ernie-3.5-8k-1222",
+            "from":"ernie"
+        }
+    ]
 }
