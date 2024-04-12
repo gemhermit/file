@@ -6,13 +6,13 @@
         {
         "name":"Gemini 1.0 Pro", 
         "des":"Experience Google's largest and most capable AI model，支持图片",
-        "value":"gemini-1.0-pro",
+        "value":"models/gemini-1.0-pro",
         "from":"gemini"
         },
         {
             "name":"Gemini 1.5 Pro", 
             "des":"Experience Google's largest and most capable AI model，支持图片",
-            "value":"gemini-1.5-pro-latest",
+            "value":"models/gemini-1.5-pro-latest",
             "from":"gemini"
         },
         {
