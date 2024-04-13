@@ -18,7 +18,7 @@
         {
             "name":"Gemini-Intellici", 
             "des":"探索基于Gemini微调和纠偏的教育大模型，提供了较好的智能出题效果",
-            "value":"tunedModels/intellici-64vvmop0j3jj",
+            "value":"models/gemini-1.5-pro-latest",
             "from":"gemini"
         },
         {
