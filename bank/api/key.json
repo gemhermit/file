@@ -4,24 +4,6 @@
     "userservice":"47.115.214.247",
     "model":[
         {
-        "name":"Gemini 1.0 Pro", 
-        "des":"Experience Google's largest and most capable AI model，支持图片",
-        "value":"models/gemini-1.0-pro",
-        "from":"gemini"
-        },
-        {
-            "name":"Gemini 1.5 Pro", 
-            "des":"Experience Google's largest and most capable AI model，支持图片",
-            "value":"models/gemini-1.5-pro-latest",
-            "from":"gemini"
-        },
-        {
-            "name":"Gemini-Intellici", 
-            "des":"探索基于Gemini微调和纠偏的教育大模型，提供了较好的智能出题效果",
-            "value":"models/gemini-1.0-ultra-latest",
-            "from":"gemini"
-        },
-        {
             "name":"文心一言", 
             "des":"由百度公司开发的聊天机器人，能够与人交互、回答问题及协作创作。",
             "value":"ernie-3.5-8k-1222",

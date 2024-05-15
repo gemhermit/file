@@ -1,0 +1,18 @@
+{
+        "name":"Gemini 1.0 Pro", 
+        "des":"Experience Google's largest and most capable AI model，支持图片",
+        "value":"models/gemini-1.0-pro",
+        "from":"gemini"
+        },
+        {
+            "name":"Gemini 1.5 Pro", 
+            "des":"Experience Google's largest and most capable AI model，支持图片",
+            "value":"models/gemini-1.5-pro-latest",
+            "from":"gemini"
+        },
+        {
+            "name":"Gemini-Intellici", 
+            "des":"探索基于Gemini微调和纠偏的教育大模型，提供了较好的智能出题效果",
+            "value":"models/gemini-1.0-ultra-latest",
+            "from":"gemini"
+        },
