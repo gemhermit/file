@@ -1,0 +1,3 @@
+ollama下载 "curl -fsSL https://ollama.com/install.sh | sh"
+ollama拉取{模型名称}大模型 "ollama pull {模型名称}"
+ollama启动{模型名称}大模型 "ollama run {模型名称}"
