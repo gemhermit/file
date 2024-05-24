@@ -6,7 +6,7 @@
         {
             "name":"文心一言 4", 
             "des":"由百度公司开发的聊天机器人，能够与人交互、回答问题及协作创作。",
-            "value":"ernie-4.0-8k",
+            "value":"completions_pro",
             "from":"ernie"
         },
         {
