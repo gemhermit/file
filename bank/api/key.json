@@ -26,12 +26,6 @@
             "des":"百度自研的轻量级大语言模型，兼顾优异的模型效果与推理性能，支持128K上下文长度。",
             "value":"ernie-lite-8k",
             "from":"ernie"
-        },
-        {
-            "name":"文心一言Tiny", 
-            "des":"百度自研的超高性能大语言模型。",
-            "value":"ernie-tiny-8k",
-            "from":"ernie"
         }
     ]
 }
