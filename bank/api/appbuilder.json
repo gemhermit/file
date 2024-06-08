@@ -1,7 +1,7 @@
 {"model":[
     {
         "id":"0",
-        "name": "知洞·智能问卷",
+        "name": "智能问卷",
         "description": "一句话创建问卷，连接用户，收集数据",
         "preset_questions": "我想了解员工对公司的满意度，帮我设计一份问卷。",
         "app_id": "c756fee1-3b61-4fa4-a00b-6c637a7045ef",
@@ -9,7 +9,7 @@
     },
     {
         "id":"1",
-        "name": "知洞·智能问答",
+        "name": "智能问答",
         "description": "解析没看明白，刨根问底，深入剖析",
         "preset_questions": "能不能解释一下为什么是这样解的",
         "app_id": "3fc0d2a4-1870-4129-8dc3-7681767a9d95",
@@ -32,7 +32,7 @@
         "avatar": "http://agi-dev-platform-bos.bj.bcebos.com/agi-dev-platform-bos/avatar.console/prod/avatar/e1b05701-45a8-4a3b-8051-df4c7fdbb4ed.png?authorization=bce-auth-v1%2FALTAKGa8m4qCUasgoljdEDAzLm%2F2024-06-08T05%3A32%3A49Z%2F-1%2F%2Fb26f3df1cd1cfd19130dcd9fb13cd71c02bfe861af98e04bdf63377ba2a0e90e&responseContentType=application%2Foctet-stream&x-bce-process=image%2Fformat%2Cf_webp"
     },
     {
-        "id":"3",
+        "id":"4",
         "name": "论文助手",
         "description": "提供方向与关键词，我能为你推荐相关论文、提供论文的框架模板，并根据推荐的论文撰写综述。",
         "preset_questions": "为我推荐大模型相关的论文",
