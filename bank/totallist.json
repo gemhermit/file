@@ -1,22 +1,25 @@
 {
     "totalTask": 0,
-    "uptime": "2024-03-14 11:40:43",
-    "totalQ": 7699,
+    "uptime": "2024-06-12 15:27:50",
+    "totalQ": 8644,
     "totalTag": [
-        "历史",
-        "驾驶证",
-        "计算机",
-        "热门",
-        "挑战",
-        "政治",
         "中国",
+        "高中",
+        "交通",
+        "计算机",
+        "历史",
+        "热门",
+        "驾驶证",
         "大学",
-        "交通"
+        "数学竞赛",
+        "挑战",
+        "政治"
     ],
     "totalUp": [
-        "anonymous",
         "official",
+        "TAL-SCQ5K",
         "ztianming",
+        "anonymous",
         "划水小能手"
     ],
     "list": [
@@ -158,7 +161,7 @@
             "visi": 1,
             "i18n": "zh_CN",
             "coun": "cn",
-            "p": "pic地址（背景图）",
+            "p": "",
             "asso": [
                 2,
                 3
@@ -184,7 +187,7 @@
             "visi": 1,
             "i18n": "zh_CN",
             "coun": "cn",
-            "p": "pic地址（背景图）",
+            "p": "",
             "asso": [
                 2,
                 3
@@ -198,7 +201,7 @@
                 "计算机"
             ],
             "time": "2024/3/14 11:28:12",
-            "intr": "计算机网络题库",
+            "intr": "计算机网络主观题题库",
             "totalC": 46,
             "totalT": [
                 4
@@ -208,10 +211,33 @@
             "visi": 1,
             "i18n": "zh_CN",
             "coun": "cn",
-            "p": "pic地址（背景图）",
+            "p": "",
             "asso": [
                 2,
                 3
+            ]
+        },
+        {
+            "id": 9,
+            "name": "高中数学联赛竞赛单选题题库",
+            "tag": [
+                "高中",
+                "数学竞赛"
+            ],
+            "time": "2024/6/12 15:14:16",
+            "intr": "高中数学联赛竞赛单选题题库,源题库连接https://github.com/math-eval/TAL-SCQ5K,授权许可MIT license:https://opensource.org/license/mit",
+            "totalC": 945,
+            "totalT": [
+                1
+            ],
+            "uper": "TAL-SCQ5K",
+            "arch": 2,
+            "visi": 2,
+            "i18n": "zh_CN",
+            "coun": "cn",
+            "p": "",
+            "asso": [
+                2
             ]
         }
     ],
