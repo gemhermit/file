@@ -10,10 +10,10 @@
     },
     {
         "id":"1",
-        "name": "智能问答",
-        "description": "解析没看明白，刨根问底，深入剖析",
+        "name": "线性代数助教",
+        "description": "线性代数问题解答，从入门到精通",
         "preset_questions": "能不能解释一下为什么是这样解的",
-        "app_id": "73061073-4368-45fe-86a0-15477d38bb31",
+        "app_id": "fe1f4d69-7e2a-4e4a-a2f4-21e03f5db5c0",
         "con_id":"",
         "avatar": ""
     }  
