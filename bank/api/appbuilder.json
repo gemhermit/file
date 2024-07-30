@@ -16,8 +16,8 @@
         "app_id": "fe1f4d69-7e2a-4e4a-a2f4-21e03f5db5c0",
         "con_id":"",
         "avatar": ""
-    }  
-    ,{
+    },
+    {
         "id":"2",
         "name": "思政报告生成器",
         "description": "一句话搞定期末课程思政报告",
