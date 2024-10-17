@@ -1,5 +1,6 @@
 {
-    "baidu_accesstoken":"24.cc94a692f63baac441e285f80336dfdc.2592000.1729153078.282335-57504589",
+    "baidu_accesstoken": "24.8a2a0810169cc73e3e65c1ad8ddfba0a.2592000.1731756911.282335-57504589",
+    "zhipu_apikey": "09b661d1474234d67f789696d13be3d0.AAY0t9VYR1TFuHdg",
     "baidu_appbuliderkey":"",
     "gemini_apikey":"AIzaSyBMuRPHbFmFpNqXVw7Umwr1AfuB1zWatWA",
     "userservice":"47.121.138.76",
@@ -33,6 +34,12 @@
             "name":"GLM-4-flash", 
             "des":"智谱AI首个免费大模型API，兼具“高速度”和“经济性”两大特点，支持128K上下文。",
             "value":"glm-4-flash",
+            "from":"zhipuai"
+        },
+        {
+            "name":"GLM-4-air", 
+            "des":"智谱AI首个免费大模型API，兼具“高速度”和“经济性”两大特点，支持128K上下文。",
+            "value":"glm-4-air",
             "from":"zhipuai"
         }
     ]
