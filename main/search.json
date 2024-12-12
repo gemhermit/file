@@ -7,112 +7,156 @@
     {
       "name": "谷歌",
       "icon": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
-      "url": "https://www.google.com/search?q="
+      "url": "https://www.google.com/search?q=",
+      "des": "秘塔AI搜索是由上海秘塔网络科技有限公司推出的一款AI搜索引擎。具有纯净搜索、全网搜索、文库搜索、学术搜索等功能，界面清爽无广告，能为用户提问提供直接、精准、结构化的答案并包含引用源，还可自动生成大纲、脑图等，助力用户快速获取和整理信息，适用于工作、学习等场景"
+  
     },
     {
       "name": "必应",
       "icon": "https://cn.bing.com/favicon.ico",
-      "url": "https://cn.bing.com/search?q="
+      "url": "https://cn.bing.com/search?q=",
+      "des": "秘塔AI搜索是由上海秘塔网络科技有限公司推出的一款AI搜索引擎。具有纯净搜索、全网搜索、文库搜索、学术搜索等功能，界面清爽无广告，能为用户提问提供直接、精准、结构化的答案并包含引用源，还可自动生成大纲、脑图等，助力用户快速获取和整理信息，适用于工作、学习等场景"
+  
     },
     {
       "name": "搜狗",
       "icon": "https://www.sogou.com/images/logo/new/favicon.ico",
-      "url": "https://www.sogou.com/web?query="
+      "url": "https://www.sogou.com/web?query=",
+      "des": "秘塔AI搜索是由上海秘塔网络科技有限公司推出的一款AI搜索引擎。具有纯净搜索、全网搜索、文库搜索、学术搜索等功能，界面清爽无广告，能为用户提问提供直接、精准、结构化的答案并包含引用源，还可自动生成大纲、脑图等，助力用户快速获取和整理信息，适用于工作、学习等场景"
+  
     },
     {
       "name": "360搜索",
       "icon": "https://www.so.com/favicon.ico",
-      "url": "https://www.so.com/s?q="
+      "url": "https://www.so.com/s?q=",
+      "des": "秘塔AI搜索是由上海秘塔网络科技有限公司推出的一款AI搜索引擎。具有纯净搜索、全网搜索、文库搜索、学术搜索等功能，界面清爽无广告，能为用户提问提供直接、精准、结构化的答案并包含引用源，还可自动生成大纲、脑图等，助力用户快速获取和整理信息，适用于工作、学习等场景"
+  
     },
     {
       "name": "神马",
       "icon": "https://m.sm.cn/favicon.ico",
-      "url": "https://m.sm.cn/s?q="
+      "url": "https://m.sm.cn/s?q=",
+      "des": "秘塔AI搜索是由上海秘塔网络科技有限公司推出的一款AI搜索引擎。具有纯净搜索、全网搜索、文库搜索、学术搜索等功能，界面清爽无广告，能为用户提问提供直接、精准、结构化的答案并包含引用源，还可自动生成大纲、脑图等，助力用户快速获取和整理信息，适用于工作、学习等场景"
+  
     },
     {
       "name": "DuckDuckGo",
       "icon": "https://duckduckgo.com/favicon.ico",
-      "url": "https://duckduckgo.com/?q="
+      "url": "https://duckduckgo.com/?q=",
+      "des": "秘塔AI搜索是由上海秘塔网络科技有限公司推出的一款AI搜索引擎。具有纯净搜索、全网搜索、文库搜索、学术搜索等功能，界面清爽无广告，能为用户提问提供直接、精准、结构化的答案并包含引用源，还可自动生成大纲、脑图等，助力用户快速获取和整理信息，适用于工作、学习等场景"
+  
     },
     {
       "name": "雅虎",
       "icon": "https://www.yahoo.com/favicon.ico",
-      "url": "https://search.yahoo.com/search?p="
+      "url": "https://search.yahoo.com/search?p=",
+      "des": "秘塔AI搜索是由上海秘塔网络科技有限公司推出的一款AI搜索引擎。具有纯净搜索、全网搜索、文库搜索、学术搜索等功能，界面清爽无广告，能为用户提问提供直接、精准、结构化的答案并包含引用源，还可自动生成大纲、脑图等，助力用户快速获取和整理信息，适用于工作、学习等场景"
+  
     },
     {
       "name": "Ecosia",
       "icon": "https://www.ecosia.org/assets/images/favicon-ecosia.png",
-      "url": "https://www.ecosia.org/search?q="
+      "url": "https://www.ecosia.org/search?q=",
+      "des": "秘塔AI搜索是由上海秘塔网络科技有限公司推出的一款AI搜索引擎。具有纯净搜索、全网搜索、文库搜索、学术搜索等功能，界面清爽无广告，能为用户提问提供直接、精准、结构化的答案并包含引用源，还可自动生成大纲、脑图等，助力用户快速获取和整理信息，适用于工作、学习等场景"
+  
     },
     {
       "name": "Qwant",
       "icon": "https://www.qwant.com/favicon.ico",
-      "url": "https://www.qwant.com/?q="
+      "url": "https://www.qwant.com/?q=",
+      "des": "秘塔AI搜索是由上海秘塔网络科技有限公司推出的一款AI搜索引擎。具有纯净搜索、全网搜索、文库搜索、学术搜索等功能，界面清爽无广告，能为用户提问提供直接、精准、结构化的答案并包含引用源，还可自动生成大纲、脑图等，助力用户快速获取和整理信息，适用于工作、学习等场景"
+  
     },
     {
       "name": "Yandex",
       "icon": "https://yandex.com/favicon.ico",
-      "url": "https://yandex.com/search/?text="
+      "url": "https://yandex.com/search/?text=",
+      "des": "秘塔AI搜索是由上海秘塔网络科技有限公司推出的一款AI搜索引擎。具有纯净搜索、全网搜索、文库搜索、学术搜索等功能，界面清爽无广告，能为用户提问提供直接、精准、结构化的答案并包含引用源，还可自动生成大纲、脑图等，助力用户快速获取和整理信息，适用于工作、学习等场景"
+  
     },
     {
       "name": "Naver",
       "icon": "https://www.naver.com/favicon.ico",
-      "url": "https://search.naver.com/search.naver?query="
+      "url": "https://search.naver.com/search.naver?query=",
+      "des": "秘塔AI搜索是由上海秘塔网络科技有限公司推出的一款AI搜索引擎。具有纯净搜索、全网搜索、文库搜索、学术搜索等功能，界面清爽无广告，能为用户提问提供直接、精准、结构化的答案并包含引用源，还可自动生成大纲、脑图等，助力用户快速获取和整理信息，适用于工作、学习等场景"
+  
     },
     {
       "name": "头条搜索",
       "icon": "https://www.toutiao.com/favicon.ico",
-      "url": "https://so.toutiao.com/search?keyword="
+      "url": "https://so.toutiao.com/search?keyword=",
+      "des": "秘塔AI搜索是由上海秘塔网络科技有限公司推出的一款AI搜索引擎。具有纯净搜索、全网搜索、文库搜索、学术搜索等功能，界面清爽无广告，能为用户提问提供直接、精准、结构化的答案并包含引用源，还可自动生成大纲、脑图等，助力用户快速获取和整理信息，适用于工作、学习等场景"
+  
     },
     {
       "name": "知网",
       "icon": "https://www.cnki.net/favicon.ico",
-      "url": "https://www.cnki.net/kns/brief/result.aspx?dbprefix=scdb&kw="
+      "url": "https://www.cnki.net/kns/brief/result.aspx?dbprefix=scdb&kw=",
+      "des": "秘塔AI搜索是由上海秘塔网络科技有限公司推出的一款AI搜索引擎。具有纯净搜索、全网搜索、文库搜索、学术搜索等功能，界面清爽无广告，能为用户提问提供直接、精准、结构化的答案并包含引用源，还可自动生成大纲、脑图等，助力用户快速获取和整理信息，适用于工作、学习等场景"
+  
     },
     {
       "name": "爱问共享资料",
       "icon": "https://ishare.iask.sina.com.cn/favicon.ico",
-      "url": "https://ishare.iask.sina.com.cn/search.php?key="
+      "url": "https://ishare.iask.sina.com.cn/search.php?key=",
+      "des": "秘塔AI搜索是由上海秘塔网络科技有限公司推出的一款AI搜索引擎。具有纯净搜索、全网搜索、文库搜索、学术搜索等功能，界面清爽无广告，能为用户提问提供直接、精准、结构化的答案并包含引用源，还可自动生成大纲、脑图等，助力用户快速获取和整理信息，适用于工作、学习等场景"
+  
     },
     {
       "name": "无追搜索",
       "icon": "https://www.wuzhuiso.com/favicon.ico",
-      "url": "https://www.wuzhuiso.com/search?q="
+      "url": "https://www.wuzhuiso.com/search?q=",
+      "des": "秘塔AI搜索是由上海秘塔网络科技有限公司推出的一款AI搜索引擎。具有纯净搜索、全网搜索、文库搜索、学术搜索等功能，界面清爽无广告，能为用户提问提供直接、精准、结构化的答案并包含引用源，还可自动生成大纲、脑图等，助力用户快速获取和整理信息，适用于工作、学习等场景"
+  
     },
     {
       "name": "Goobe",
       "icon": "https://goobe.io/favicon.ico",
-      "url": "https://goobe.io/search?q="
+      "url": "https://goobe.io/search?q=",
+      "des": "秘塔AI搜索是由上海秘塔网络科技有限公司推出的一款AI搜索引擎。具有纯净搜索、全网搜索、文库搜索、学术搜索等功能，界面清爽无广告，能为用户提问提供直接、精准、结构化的答案并包含引用源，还可自动生成大纲、脑图等，助力用户快速获取和整理信息，适用于工作、学习等场景"
+  
     },
     {
       "name": "Magi",
       "icon": "https://magi.com/favicon.ico",
-      "url": "https://magi.com/search?q="
+      "url": "https://magi.com/search?q=",
+      "des": "秘塔AI搜索是由上海秘塔网络科技有限公司推出的一款AI搜索引擎。具有纯净搜索、全网搜索、文库搜索、学术搜索等功能，界面清爽无广告，能为用户提问提供直接、精准、结构化的答案并包含引用源，还可自动生成大纲、脑图等，助力用户快速获取和整理信息，适用于工作、学习等场景"
+  
     },
     {
       "name": "Searxng",
       "icon": "https://searx.tiekoetter.com/favicon.ico",
-      "url": "https://searx.tiekoetter.com/?q="
+      "url": "https://searx.tiekoetter.com/?q=",
+      "des": "秘塔AI搜索是由上海秘塔网络科技有限公司推出的一款AI搜索引擎。具有纯净搜索、全网搜索、文库搜索、学术搜索等功能，界面清爽无广告，能为用户提问提供直接、精准、结构化的答案并包含引用源，还可自动生成大纲、脑图等，助力用户快速获取和整理信息，适用于工作、学习等场景"
+  
     },
     {
       "name": "Shodan",
       "icon": "https://www.shodan.io/favicon.ico",
-      "url": "https://www.shodan.io/search?query="
+      "url": "https://www.shodan.io/search?query=",
+      "des": "秘塔AI搜索是由上海秘塔网络科技有限公司推出的一款AI搜索引擎。具有纯净搜索、全网搜索、文库搜索、学术搜索等功能，界面清爽无广告，能为用户提问提供直接、精准、结构化的答案并包含引用源，还可自动生成大纲、脑图等，助力用户快速获取和整理信息，适用于工作、学习等场景"
+  
     },
     {
       "name": "Zoomeye",
       "icon": "https://www.zoomeye.org/favicon.ico",
-      "url": "https://www.zoomeye.org/search?q="
+      "url": "https://www.zoomeye.org/search?q=",
+      "des": "秘塔AI搜索是由上海秘塔网络科技有限公司推出的一款AI搜索引擎。具有纯净搜索、全网搜索、文库搜索、学术搜索等功能，界面清爽无广告，能为用户提问提供直接、精准、结构化的答案并包含引用源，还可自动生成大纲、脑图等，助力用户快速获取和整理信息，适用于工作、学习等场景"
+  
     },
     {
       "name": "FOFA",
       "icon": "https://fofa.info/favicon.ico",
-      "url": "https://fofa.info/result?q="
+      "url": "https://fofa.info/result?q=",
+      "des": "秘塔AI搜索是由上海秘塔网络科技有限公司推出的一款AI搜索引擎。具有纯净搜索、全网搜索、文库搜索、学术搜索等功能，界面清爽无广告，能为用户提问提供直接、精准、结构化的答案并包含引用源，还可自动生成大纲、脑图等，助力用户快速获取和整理信息，适用于工作、学习等场景"
+  
     },
     {
       "name": "Hunter",
       "icon": "https://hunter.qianxin.com/favicon.ico",
-      "url": "https://hunter.qianxin.com/search?q="
+      "url": "https://hunter.qianxin.com/search?q=",
+      "des": "秘塔AI搜索是由上海秘塔网络科技有限公司推出的一款AI搜索引擎。具有纯净搜索、全网搜索、文库搜索、学术搜索等功能，界面清爽无广告，能为用户提问提供直接、精准、结构化的答案并包含引用源，还可自动生成大纲、脑图等，助力用户快速获取和整理信息，适用于工作、学习等场景"
+  
     },
 {
           "name": "秘塔AI搜索",
