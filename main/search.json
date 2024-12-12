@@ -114,9 +114,47 @@
       "icon": "https://hunter.qianxin.com/favicon.ico",
       "url": "https://hunter.qianxin.com/search?q="
     },
-    {
-      "name": "360Quake",
-      "icon": "https://quake.360.net/favicon.ico",
-      "url": "https://quake.360.net/search?q="
-    }
+{
+          "name": "秘塔AI搜索",
+          "icon": "https://metaso.cn/favicon.ico",
+          "url": "https://metaso.cn/",
+          "des": "秘塔AI搜索是由上海秘塔网络科技有限公司推出的一款AI搜索引擎。具有纯净搜索、全网搜索、文库搜索、学术搜索等功能，界面清爽无广告，能为用户提问提供直接、精准、结构化的答案并包含引用源，还可自动生成大纲、脑图等，助力用户快速获取和整理信息，适用于工作、学习等场景"
+        },
+        {
+          "name": "夸克",
+          "icon": "https://www.myquark.cn/favicon.ico",
+          "url": "https://www.myquark.cn/",
+          "des": "夸克是一款具有AI搜索功能的应用，多次荣登Appstore工具类排行榜第一。其AI搜索能够智能整理全网内容，生成优质内容，还具备AI总结、AI创作等功能，如AI一键总结长视频、一键生成PPT/简历等，为用户提供学习、工作、生活的高效支持"
+        },
+        {
+          "name": "C知道",
+          "icon": "https://www.csdn.net/favicon.ico",
+          "url": "https://www.csdn.net/",
+          "des": "C知道是CSDN的开发者AI搜索引擎，荣获2024中国AI年度产品金奖。它集成了AIGC技术和RAG框架，能够理解复杂的查询意图，直接将用户的查询转化为可执行的代码片段或解决方案建议，为开发者提供精准、高效的技术搜索服务"
+        },
+        {
+          "name": "360AI搜索",
+          "icon": "https://www.so.com/favicon.ico",
+          "url": "https://www.so.com/",
+          "des": "360AI搜索是三六零集团旗下的AI搜索引擎，在用户体验和安全能力方面表现卓越，其用户访问量位列国内总榜第一名、全球搜索引擎榜第二名，能够为用户提供高质量的搜索结果和AI能力支持"
+        },
+        {
+          "name": "纳米AI搜索",
+          "icon": "https://n.cn/favicon.ico",
+          "url": "https://n.cn/",
+          "des": "纳米AI搜索是360推出的全新多模态内容创作引擎，首日访问量超100万。它以搜索为起点，构建了以“搜、学、写、创”为核心能力的完整工作流，将搜索结果变为“创作资源”，实现了从信息检索迈向智能创作的跨越。"
+        },
+        {
+          "name": "Accio",
+          "icon": "https://www.alibaba.com/favicon.ico",
+          "url": "https://www.alibaba.com/",
+          "des": "Accio是阿里国际推出的全球首个B2B领域的AI搜索引擎，包含“AI驱动的搜索”“AI重构的商品百科页面”“端到端的电商平台”三大模块。用户可通过多轮对话提出需求，Accio会理解并拆解需求，调研市场后给出建议，从而更精准地筛选供应商、推荐商品/"
+        },
+        {
+          "name": "Reddit Answers",
+          "icon": "https://www.reddit.com/favicon.ico",
+          "url": "https://www.reddit.com/",
+          "des": "Reddit推出的AI驱动搜索工具，其信息直接来源于Reddit平台。能够以优雅的格式、丰富的内容和极高的可读性回答用户提问，并附上相关来源链接，还提供预设的搜索建议，但在实时信息检索方面有待提升。"
+        }
+      
   ]
