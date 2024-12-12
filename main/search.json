@@ -1,0 +1,122 @@
+[
+    {
+      "name": "百度",
+      "icon": "https://www.baidu.com/img/bd_logo1.png",
+      "url": "https://www.baidu.com/s?wd="
+    },
+    {
+      "name": "谷歌",
+      "icon": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+      "url": "https://www.google.com/search?q="
+    },
+    {
+      "name": "必应",
+      "icon": "https://cn.bing.com/favicon.ico",
+      "url": "https://cn.bing.com/search?q="
+    },
+    {
+      "name": "搜狗",
+      "icon": "https://www.sogou.com/images/logo/new/favicon.ico",
+      "url": "https://www.sogou.com/web?query="
+    },
+    {
+      "name": "360搜索",
+      "icon": "https://www.so.com/favicon.ico",
+      "url": "https://www.so.com/s?q="
+    },
+    {
+      "name": "神马",
+      "icon": "https://m.sm.cn/favicon.ico",
+      "url": "https://m.sm.cn/s?q="
+    },
+    {
+      "name": "DuckDuckGo",
+      "icon": "https://duckduckgo.com/favicon.ico",
+      "url": "https://duckduckgo.com/?q="
+    },
+    {
+      "name": "雅虎",
+      "icon": "https://www.yahoo.com/favicon.ico",
+      "url": "https://search.yahoo.com/search?p="
+    },
+    {
+      "name": "Ecosia",
+      "icon": "https://www.ecosia.org/assets/images/favicon-ecosia.png",
+      "url": "https://www.ecosia.org/search?q="
+    },
+    {
+      "name": "Qwant",
+      "icon": "https://www.qwant.com/favicon.ico",
+      "url": "https://www.qwant.com/?q="
+    },
+    {
+      "name": "Yandex",
+      "icon": "https://yandex.com/favicon.ico",
+      "url": "https://yandex.com/search/?text="
+    },
+    {
+      "name": "Naver",
+      "icon": "https://www.naver.com/favicon.ico",
+      "url": "https://search.naver.com/search.naver?query="
+    },
+    {
+      "name": "头条搜索",
+      "icon": "https://www.toutiao.com/favicon.ico",
+      "url": "https://so.toutiao.com/search?keyword="
+    },
+    {
+      "name": "知网",
+      "icon": "https://www.cnki.net/favicon.ico",
+      "url": "https://www.cnki.net/kns/brief/result.aspx?dbprefix=scdb&kw="
+    },
+    {
+      "name": "爱问共享资料",
+      "icon": "https://ishare.iask.sina.com.cn/favicon.ico",
+      "url": "https://ishare.iask.sina.com.cn/search.php?key="
+    },
+    {
+      "name": "无追搜索",
+      "icon": "https://www.wuzhuiso.com/favicon.ico",
+      "url": "https://www.wuzhuiso.com/search?q="
+    },
+    {
+      "name": "Goobe",
+      "icon": "https://goobe.io/favicon.ico",
+      "url": "https://goobe.io/search?q="
+    },
+    {
+      "name": "Magi",
+      "icon": "https://magi.com/favicon.ico",
+      "url": "https://magi.com/search?q="
+    },
+    {
+      "name": "Searxng",
+      "icon": "https://searx.tiekoetter.com/favicon.ico",
+      "url": "https://searx.tiekoetter.com/?q="
+    },
+    {
+      "name": "Shodan",
+      "icon": "https://www.shodan.io/favicon.ico",
+      "url": "https://www.shodan.io/search?query="
+    },
+    {
+      "name": "Zoomeye",
+      "icon": "https://www.zoomeye.org/favicon.ico",
+      "url": "https://www.zoomeye.org/search?q="
+    },
+    {
+      "name": "FOFA",
+      "icon": "https://fofa.info/favicon.ico",
+      "url": "https://fofa.info/result?q="
+    },
+    {
+      "name": "Hunter",
+      "icon": "https://hunter.qianxin.com/favicon.ico",
+      "url": "https://hunter.qianxin.com/search?q="
+    },
+    {
+      "name": "360Quake",
+      "icon": "https://quake.360.net/favicon.ico",
+      "url": "https://quake.360.net/search?q="
+    }
+  ]
